@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 #### Languages and tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 
 ![Shinosaki github stats](https://github-readme-stats.vercel.app/api?username=shinosaki&show_icons=true)
 
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/shinosaki/yumeko">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shinosaki&repo=yumeko" />
 </a>
-<br/>
 <a href="https://github.com/shinosaki/comoji">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shinosaki&repo=comoji" />
 </a>
