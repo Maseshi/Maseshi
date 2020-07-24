@@ -1,8 +1,6 @@
 <h3 align="center">Hi there, I'm Shinosaki! or Chaiwat Suwannarat 👋</h3>
 <p align='center'>
-  I live on Chiangkham, Thailand and learning coding
-  <br/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shinosaki.visitor-badge" />
+  I live in Chiangkham, Thailand and learning coding
   <br/>
   <a href="https://discord.gg/VK4k3Br">
     <img alt="Shinozaki Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
