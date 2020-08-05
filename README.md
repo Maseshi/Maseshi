@@ -40,13 +40,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 
 ![Shinosaki github stats](https://github-readme-stats.vercel.app/api?username=shinosaki&show_icons=true)
-
-<hr/>
-
-#### Repository Pin
-<a href="https://github.com/shinosaki/yumeko">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shinosaki&repo=yumeko" />
-</a>
-<a href="https://github.com/shinosaki/comoji">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shinosaki&repo=comoji" />
-</a>
