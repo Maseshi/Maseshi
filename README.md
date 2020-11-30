@@ -12,7 +12,7 @@
 
 ---
 
-- 👑 I am the leader of [LectionDev](https://lectiondev.web.app) Studio.
+- 👑 I am the leader of [Maxticall](https://maxticall.web.app) Studio.
 - 🌱 I’m currently learning C, C# and C++
 - 📖 I'm a newbie developer
 - 💬 I might not be able to use English correctly.
