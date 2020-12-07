@@ -2,11 +2,11 @@
 <p align='center'>
   I live in Chiangkham, Thailand and learning coding
   <br/>
-  <a href="https://discord.gg/VK4k3Br">
-    <img alt="Shinozaki Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <a href="https://discord.gg/7B52BTf">
+    <img alt="Maseshi Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
   <a href="https://www.facebook.com/ChaiwatSuwannarat">
-    <img alt="Shinozaki Facebook" width="21px" src="https://www.easysends.com/images/editor/facebook-512.png" />
+    <img alt="Maseshi Facebook" width="21px" src="https://www.easysends.com/images/editor/facebook-512.png" />
   </a>
 <p/>
 
@@ -25,4 +25,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 
-![Shinosaki github stats](https://github-readme-stats.vercel.app/api?username=shinosaki&show_icons=true)
+![Maseshi github stats](https://github-readme-stats.vercel.app/api?username=Maseshi&show_icons=true)
