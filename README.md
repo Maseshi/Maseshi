@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Shinosaki! or Chaiwat Suwannarat 👋</h3>
+<h3 align="center">Hi there, I'm Maseshi! or Chaiwat Suwannarat 👋</h3>
 <p align='center'>
   I live in Chiangkham, Thailand and learning coding
   <br/>
