@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning C, C# and C++
 - 📖 I'm a newbie developer
 - 💬 I might not be able to use English correctly.
-- 📫 How to reach me: Discord: Maseshi#9467 or [Facebook](https://www.facebook.com/ChaiwatSuwannarat)
+- 📫 How to reach me: **Discord: Maseshi#9467** or [Facebook](https://www.facebook.com/ChaiwatSuwannarat)
 - ⚡ Fun fact: ...
 
 #### Languages and tools
