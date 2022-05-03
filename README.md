@@ -19,7 +19,7 @@
 
 <br />
 
-- 🪙 Little by little donation, life will be bright, [Patreon](https://patreon.com/maseshi).
+- 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/maseshi).
 - 🌱 I'm currently learning C, C# and C++
 - 🎨 Black and white give a minimalist feel.
 - 💬 I might not be able to use English correctly.
@@ -42,13 +42,6 @@ console.log(error)
 
 A good workspace is half the battle won. Even if it's not very good, it's enough to keep going.
 
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-- General use
-- Test and release
-- Programming and development
-- Control and manage servers
-
 > ![Asus Laptop Badge](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
 >
 > - Model: K45VD
@@ -59,31 +52,25 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
 > - HDD: 500 GB
 > - RAM: 6 GB
 
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-- General use
-- Study more
-- Test the app's functionality.
-
 ## Languages and tools
 
 This is something I have used before and may be familiar with these languages and tools.
 
-Browser:
+**Browser**:
 
 ![Microsoft Edge Badge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-Terminal:
+**Terminal**:
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-IDE:
+**IDE**:
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
-Languages:
+**Languages**:
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +79,7 @@ Languages:
 ![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Frameworks:
+**Frameworks**:
 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
