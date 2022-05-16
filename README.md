@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Maseshi</h1>
 <div align="center">
   <p>I live in Thailand, I love programming and development.</p>
-  <a href="https://www.facebook.com/ChaiwatSuwannarat">
+  <a href="https://www.facebook.com/chaiwat.fb">
     <img alt="Maseshi Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/Maseshi">
+  <a href="https://github.com/maseshi">
     <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/chaiwat_itg">
     <img alt="Maseshi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/chaiwat_twt">
+  <a href="https://twitter.com/maseshi_twt">
     <img alt="Maseshi Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <br />
