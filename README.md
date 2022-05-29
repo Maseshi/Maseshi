@@ -1,6 +1,5 @@
-<h1 align="center">Hi! I'm Maseshi</h1>
 <div align="center">
-  <p>I live in Thailand, I love programming and development.</p>
+  <h1>Hi! I'm Maseshi</h1>
   <a href="https://www.facebook.com/chaiwat.fb">
     <img alt="Maseshi Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -13,11 +12,9 @@
   <a href="https://twitter.com/maseshi_twt">
     <img alt="Maseshi Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <br />
+  <p>I live in Thailand, I love programming and development.</p>
   <img alt="Maseshi streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Maseshi" />
 </div>
-
-<br />
 
 - 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/maseshi).
 - 🌱 I'm currently learning C, C# and C++
@@ -42,15 +39,31 @@ console.log(error)
 
 A good workspace is half the battle won. Even if it's not very good, it's enough to keep going.
 
-> ![Asus Laptop Badge](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
->
-> - Model: K45VD
-> - OS: Windows 11 Pro
-> - CPU: INTEL CORE I5-3210M
-> - GPU: NVIDIA Geforce 610M
-> - SSD: 240 GB
-> - HDD: 500 GB
-> - RAM: 6 GB
+<table>
+  <tr>
+      <th colspan="7">
+        ASUS Laptop
+      </th>
+  </tr>
+  <tr>
+    <th>Model</th>
+    <th>OS</th>
+    <th>CPU</th>
+    <th>GPU</th>
+    <th>SSD</th>
+    <th>HDD</th>
+    <th>RAM</th>
+  </tr>
+  <tr>
+    <td>K45VD</td>
+    <td>Windows 11 Pro</td>
+    <td>INTEL CORE I5-3210M</td>
+    <td>NVIDIA Geforce 610M</td>
+    <td>240 GB</td>
+    <td>500 GB</td>
+    <td>6 GB</td>
+  </tr>
+</table>
 
 ## Languages and tools
 
@@ -95,5 +108,3 @@ This is something I have used before and may be familiar with these languages an
 ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 <img align="center" alt="Maseshi graph" src="https://activity-graph.herokuapp.com/graph?username=Maseshi&theme=minimal" />
-
-<h2 align="center">Powered by Google Translate</h2>
