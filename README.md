@@ -106,5 +106,3 @@ This is something I have used before and may be familiar with these languages an
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-<img align="center" alt="Maseshi graph" src="https://activity-graph.herokuapp.com/graph?username=Maseshi&theme=minimal" />
