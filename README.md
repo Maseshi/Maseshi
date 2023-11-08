@@ -1,12 +1,12 @@
 <div align="center">
   <h1>👋 Hi! I'm Maseshi</h1>
-  <a href="https://facebook.com/maseshi2005">
+  <a href="https://facebook.com/maseshi.cs">
     <img alt="Maseshi Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://github.com/Maseshi">
     <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/maseshi2005">
+  <a href="https://instagram.com/maseshi.cs">
     <img alt="Maseshi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/maseshi2005">
@@ -90,10 +90,10 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
       </ul>
     </td>
     <td>
-      6 GB 1600 MHz DDR3(L)
+      12 GB 1600 MHz DDR3L
       <ul>
         <li>
-          <strong>ASint:</strong> 2 GB
+          <strong>Hynix:</strong> 8 GB
         </li>
         <li>
           <strong>Hynix:</strong> 4 GB
