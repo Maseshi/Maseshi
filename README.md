@@ -93,7 +93,7 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
       12 GB 1600 MHz DDR3L
       <ul>
         <li>
-          <strong>Hynix:</strong> 8 GB
+          <strong>Blackberry:</strong> 8 GB
         </li>
         <li>
           <strong>Hynix:</strong> 4 GB
