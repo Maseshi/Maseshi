@@ -1,30 +1,14 @@
 <div align="center">
   <h1>👋 Hi! I'm Maseshi</h1>
-  <a href="https://facebook.com/maseshi.cs" target="_blank">
-    <img alt="Maseshi Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/Maseshi">
-    <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/maseshi.cs">
-    <img alt="Maseshi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/maseshi2005">
-    <img alt="Maseshi X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://g.dev/maseshi">
-    <img alt="Maseshi Google" src="https://img.shields.io/badge/Google-CC0000?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <p>I live in Thailand, I love programming and development.</p>
   <img alt="Maseshi streak stats" src="https://github-readme-stats.vercel.app/api?username=Maseshi" />
 </div>
 
-- 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/maseshi).
-- 🌱 I'm currently learning C, C# and C++
+- 🤔 How to center a `div`?
+- 📫 How to reach me: **Discord: maseshi**
+- 🍫 Fun fact: **Dark chocolate is delicious.**
 - 🎨 Black and white give a minimalist feel.
 - 💬 I might not be able to use English correctly.
-- 📫 How to reach me: **Discord: maseshi**
-- ⚡ Fun fact: **Dark chocolate is delicious.**
+- 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/maseshi).
 
 ```javascript
 const process = "working";
@@ -38,7 +22,7 @@ console.log(error);
 // It work with error
 ```
 
-## Workspace
+## 💻 Workspace
 
 A good workspace is half the battle won. Even if it's not very good, it's enough to keep going.
 
@@ -103,7 +87,7 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
   </tr>
 </table>
 
-## Languages and tools
+## 🧰 Languages and tools
 
 This is something I've used before and am familiar with these languages and tools.
 
@@ -253,7 +237,3 @@ This is something I've used before and am familiar with these languages and tool
   ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </details>
-
----
-
-© [Chaiwat Suwannarat](https://maseshi.web.app).
