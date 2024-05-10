@@ -7,7 +7,6 @@
 ### 📋 About me
 
 - 🤔 How to center a `div`?
-- 🍵 Green tea is the best.
 - 📫 How to reach me: **Discord: maseshi**
 - 🍫 Fun fact: **Dark chocolate is delicious.**
 - 🎨 Black and White give a minimalist feel.
