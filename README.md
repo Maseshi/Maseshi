@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./LOGO-UwU-GLOWING.png" alt="UwU" width="400px" />
   <h1>👋 Hi! I'm Maseshi <strong>(マセし)</strong></h1>
   <p>Programming is like teaching a child.</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maseshi&theme=transparent&hide_border=true" alt="Maseshi's Streak" />
