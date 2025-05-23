@@ -2,6 +2,8 @@
   <img src="./LOGO-UwU-GLOWING.png" alt="UwU" width="400px" />
   <h1>👋 Hi! I'm Maseshi <strong>(マセし)</strong></h1>
   <p>Programming is like teaching a child.</p>
+  <img src="https://komarev.com/ghpvc/?username=Maseshi" alt="Maseshi' Profile Viewer" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maseshi&theme=transparent&hide_border=true" alt="Maseshi's Streak" />
 </div>
 
@@ -31,7 +33,7 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
 | ASUS Laptop | |
 |    :---:    | --- |
 | Model       | K45VD |
-| OS          | Windows 11 Pro |
+| OS          | Windows 11 Pro & Debian 13 |
 | CPU         | [INTEL CORE I5-3210M](https://www.intel.com/content/www/us/en/products/sku/65708/intel-core-i53210m-processor-3m-cache-up-to-3-10-ghz-bga/specifications.html) |
 | GPU         | [Intel(R) HD Graphics 4000](https://www.techpowerup.com/gpu-specs/hd-graphics-4000-mobile.c1266), [NVIDIA GeForce 610M](https://www.techpowerup.com/gpu-specs/geforce-610m.c355) |
 | Storage     | 1.24 TB (WD Green SATA SSD: 240 GB, Seagate SATA HDD: 1 TB) |
